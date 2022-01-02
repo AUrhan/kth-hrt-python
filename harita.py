@@ -59,7 +59,7 @@ ax = merge.plot(cmap='OrRd', figsize=(10,10), legend=True, edgecolor='black', li
 # In[28]:
 
 
-ax = merge.plot(cmap='OrRd',column='IL-ILCE'/'TOPLAM'/'Erkek-Male'/'Kadin-Female'/'Cocuk-Child', figsize=(10,10), legend=True, edgecolor='black', linewidth=0.4)
+ax = merge.plot(cmap='OrRd', figsize=(10,10), legend=True, edgecolor='black', linewidth=0.4)
 
 
 # In[ ]:
